@@ -11,7 +11,8 @@ Step 2: https://www.customvision.ai/
 
 
 ---------------------------------------
-### Demo 2 - Computer Vision 
+![demo2](https://i.ibb.co/NmRGxTV/demo2.png)
+
 Step 1: https://portal.azure.com 
 
 ![Cup Vision2](https://i.ibb.co/JdG1dJG/cv1.png)
@@ -27,4 +28,4 @@ https://westeurope.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e635
 
 
 ---------------------------------------
-### Demo 2 - Azure Search
+![demo3](https://i.ibb.co/c2VM4qc/demo3.png)

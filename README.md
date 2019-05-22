@@ -1,5 +1,9 @@
-![Custom Vision](https://i.ibb.co/WgSVJT7/Kaa-S-Logo-transparent-gray.png)
+<p align="center">
+<img src="https://i.ibb.co/WgSVJT7/Kaa-S-Logo-transparent-gray.png")
+</p>
+  
 -------------------------------------------------
+
 ![demo1](https://i.ibb.co/wRF09xR/demo1.png)
 
 Step 1: Datensatz: https://aka.avanade.com/KaaSCV

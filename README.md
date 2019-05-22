@@ -10,4 +10,18 @@ Step 2: https://www.customvision.ai/
 
 
 ---------------------------------------
+### Demo 2 - Computer Vision 
+Step 1: https://portal.azure.com 
+
+![Cup Vision2](https://i.ibb.co/JdG1dJG/cv1.png)
+![Cup Vision2](https://i.ibb.co/6X76FRY/cv2.png)
+![Cup Vision3](https://i.ibb.co/MMGXjgg/cv3.png)
+![Cup Vision4](https://i.ibb.co/tzKq1Mr/cv4.png)
+Step 2:
+https://westeurope.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e6355ad44/operations/56f91f2e778daf14a499e1fa
+
+
+
+
+---------------------------------------
 ### Demo 2 - Azure Search

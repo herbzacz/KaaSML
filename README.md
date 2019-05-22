@@ -11,7 +11,12 @@ Step 2: https://www.customvision.ai/
 ![CustVis 3](https://i.ibb.co/WpCYwQ0/customvis2.png)
 ![CustVis 4](https://i.ibb.co/BNKnVTC/customvis3.png)
 ![CustVis 2](https://i.ibb.co/tqXR929/customvis.png)
-
+![CustVis 5](https://i.ibb.co/sg7WW1Q/customvis4.png)
+![CustVis 6](https://i.ibb.co/DLn55Y5/customvis6.png)
+![CustVis 7](https://i.ibb.co/XCcJ9db/customvis5.png)
+![CustVis 8](https://i.ibb.co/8K9SbZb/customvis8.png)
+![CustVis 9](https://i.ibb.co/dGF4KqW/customvis89png.png)
+![CustVis 10](https://i.ibb.co/7rn04Mv/customvis10.png)
 ---------------------------------------
 ![demo2](https://i.ibb.co/NmRGxTV/demo2.png)
 

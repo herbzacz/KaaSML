@@ -6,7 +6,7 @@ Step 1: Datensatz: https://aka.avanade.com/kaasml1
 Step 2: https://www.customvision.ai/
 
 ![Custom Vision](https://i.ibb.co/NWB8b0v/2019-05-22-11-11-54.png)
-
+![Cu Vision1](https://i.ibb.co/CM8PJ63/sign-in.png)
 
 
 ---------------------------------------

@@ -2,7 +2,7 @@
 -------------------------------------------------
 ![demo1](https://i.ibb.co/wRF09xR/demo1.png)
 
-Step 1: Datensatz: https://aka.avanade.com/kaasml1
+Step 1: Datensatz: https://aka.avanade.com/KaaSCV
 
 Step 2: https://www.customvision.ai/
 

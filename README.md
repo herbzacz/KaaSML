@@ -48,7 +48,13 @@ Step 1: https://portal.azure.com
 
 #### Erstellung eines Azure Storage Accounts (Ablage von Dateien)
 
-![as1](https://i.ibb.co/Tcf1bsB/as1.png)
-Step 2: D
+
+Step 2: 
 #### Datensatz herunterladen und entpacken
 Datensatz: https://aka.avanade.com/AzureSearchData
+
+Step 3:
+#### Azure Search erstellen
+https://portal.azure.com 
+
+![as1](https://i.ibb.co/Tcf1bsB/as1.png)

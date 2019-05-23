@@ -63,6 +63,8 @@ Step 4:
 #### Azure Search erstellen
 https://portal.azure.com 
 
+![az2](https://i.ibb.co/QFjp0hf/as1.png)
+
 ![az5](https://i.ibb.co/JkLndp3/as5.png)
 ![az6](https://i.ibb.co/9y7gxHj/as6.png)
 ![az7](https://i.ibb.co/0V80G2p/as7.png)

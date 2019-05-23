@@ -44,9 +44,11 @@ https://westeurope.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e635
 ---------------------------------------
 ![demo3](https://i.ibb.co/c2VM4qc/demo3.png)
 
-Datensatz: 
 Step 1: https://portal.azure.com 
 
 #### Erstellung eines Azure Storage Accounts (Ablage von Dateien)
 
 ![as1](https://i.ibb.co/Tcf1bsB/as1.png)
+Step 2: D
+#### Datensatz herunterladen und entpacken
+Datensatz: https://aka.avanade.com/AzureSearchData

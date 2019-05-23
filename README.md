@@ -28,6 +28,7 @@ Step 2: https://www.customvision.ai/
 ![demo2](https://i.ibb.co/NmRGxTV/demo2.png)
 ####
 Step 1: https://portal.azure.com 
+#### Computer Vision erstellen
 
 ![Cup Vision2](https://i.ibb.co/JdG1dJG/cv1.png)
 ![Cup Vision2](https://i.ibb.co/6X76FRY/cv2.png)
@@ -44,16 +45,21 @@ https://westeurope.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e635
 ---------------------------------------
 ![demo3](https://i.ibb.co/c2VM4qc/demo3.png)
 
-Step 1: https://portal.azure.com 
-
-#### Erstellung eines Azure Storage Accounts (Ablage von Dateien)
-
-
-Step 2: 
+Step 1: 
 #### Datensatz herunterladen und entpacken
 Datensatz: https://aka.avanade.com/AzureSearchData
 
-Step 3:
+Step 2: 
+#### Erstellung eines Azure Storage Accounts (Ablage von Dateien)
+https://portal.azure.com 
+
+![az2](https://i.ibb.co/b6SgnMT/as2.png)
+Step3:
+#### Bilder in den Azure Storage hochladen
+
+![az3](https://i.ibb.co/FscgqrJ/as3.png)
+
+Step 4:
 #### Azure Search erstellen
 https://portal.azure.com 
 

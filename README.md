@@ -55,6 +55,7 @@ Step 2:
 https://portal.azure.com 
 
 ![az2](https://i.ibb.co/b6SgnMT/as2.png)
+
 Step3:
 #### Bilder in den Azure Storage hochladen
 

@@ -48,7 +48,7 @@ https://westeurope.dev.cognitive.microsoft.com/docs/services/5adf991815e1060e635
 
 Step 1: 
 #### Datensatz herunterladen und entpacken
-Datensatz: https://aka.avanade.com/AzureSearchData
+Datensatz: https://aka.avanade.com/AzureSearch2
 
 Step 2: 
 #### Erstellung eines Azure Storage Accounts (Ablage von Dateien)

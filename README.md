@@ -10,7 +10,7 @@
 ![DVMarvel](http://freeaddon.com/wp-content/uploads/2017/09/marvel-vs-dc-0.jpg)
 
 Step 1: 
-#### Datensatz: https://aka.avanade.com/KaaSCV herunterladen und entpacken
+#### Datensatz: https://aka.avanade.com/KaaSCV1 herunterladen und entpacken
 
 Step 2: https://www.customvision.ai/
 
